@@ -1,0 +1,9 @@
+{
+  "name": "token-pet",
+  "version": "0.1.0",
+  "description": "A pixel-art creature above the prompt that feeds on the tokens this conversation spends and evolves as it grows.",
+  "author": { "name": "QuintusAlp", "url": "https://github.com/QuintusAlp" },
+  "homepage": "https://github.com/QuintusAlp/token-pet",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

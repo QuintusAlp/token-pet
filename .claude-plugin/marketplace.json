@@ -1,0 +1,5 @@
+{
+  "name": "token-pet",
+  "owner": { "name": "QuintusAlp" },
+  "plugins": [{ "name": "token-pet", "source": "./" }]
+}
